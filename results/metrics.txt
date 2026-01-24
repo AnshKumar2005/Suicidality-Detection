@@ -1,0 +1,29 @@
+==============================
+MODEL PERFORMANCE METRICS
+==============================
+
+ENGLISH DATASET
+------------------------------
+Accuracy: 0.9058
+Precision: 0.7000
+Recall: 0.8800
+F1-score: 0.7797
+F2-score: 0.8370
+False Negative Rate (FNR): 0.1200
+Matthews Correlation Coefficient (MCC): 0.7285
+AUC-ROC: 0.9549
+AUC-PR: 0.8529
+Best Threshold: 0.5013
+
+HINDI DATASET
+------------------------------
+Accuracy: 0.8896
+Precision: 0.6667
+Recall: 0.8343
+F1-score: 0.7411
+F2-score: 0.7943
+False Negative Rate (FNR): 0.1657
+Matthews Correlation Coefficient (MCC): 0.6789
+AUC-ROC: 0.9258
+AUC-PR: 0.7882
+Best Threshold: 0.6050
