@@ -1,4 +1,8 @@
-Preprocessed, translated dataset, split in train, val and test.
+The original dataset was already partitioned into training, validation, and test sets at the source.  
+Each split was independently preprocessed and tokenized in this project, codes for which can be found in folder scripts.  
+Token-level translation was applied to construct multilingual representations, and the processed data were stored in XLSX format.  
+Each XLSX file contains both English and Hindi token representations within a unified structure, enabling consistent multilingual experimentation.
+ 
 ## Dataset Statistics
 The distribution of suicidal and non-suicidal samples, along with emoji counts, is shown below:
 
