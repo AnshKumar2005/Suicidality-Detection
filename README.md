@@ -11,7 +11,7 @@ Social media language is informal, emotionally expressive, and often multilingua
 To address this, a hybrid transformer-based architecture is proposed that explicitly disentangles semantic intent and linguistic style and dynamically fuses them using a gated attention mechanism.  
 The model is evaluated on English and Hindi text with a focus on safety-critical metrics such as recall and false negative rate.
 
-This work was conducted as part of a **Winter Research Internship at IIT (ISM) Dhanbad**.
+
 
 ---
 
